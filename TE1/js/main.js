@@ -4,8 +4,8 @@ import { GastosCombustible } from './GastoCombustible.js';
 // ------------------------------ 1. VARIABLES GLOBALES ------------------------------
 let tarifasJSON = null;
 let gastosJSON = null;
-let tarifasJSONpath = './json/tarifasCombustible.json';
-let gastosJSONpath = './json/gastosCombustible.json';
+let tarifasJSONpath = './TE1/json/tarifasCombustible.json';
+let gastosJSONpath = './TE1/json/gastosCombustible.json';
 //Creamos el array con los gastos anuales como variable global
 let aniosArray;
 
